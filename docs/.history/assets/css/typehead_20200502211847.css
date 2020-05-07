@@ -1,0 +1,198 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+html {
+	-ms-overflow-y: scroll;
+}
+.sticky-footer-wrapper {
+	margin: 0px auto -60px; height: auto !important; min-height: 100%;
+}
+.sticky-footer-push {
+	height: 60px;
+}
+.footer {
+	height: 60px;
+}
+.container {
+	margin: 0px auto; max-width: 700px;
+}
+html {
+	font: 18px/1.2 "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif; color: rgb(41, 47, 51); font-size-adjust: none; font-stretch: normal; background-color: rgb(242, 249, 255);
+}
+a {
+	color: rgb(3, 115, 156); text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+p {
+	margin: 0px 0px 10px;
+}
+input[type=text]::-ms-clear {
+	display: none;
+}
+.masthead {
+	margin: 0px auto; text-align: center; max-width: 800px;
+}
+.footer {
+	margin: 0px auto; text-align: center; max-width: 800px;
+}
+.twitter-logo {
+	margin: 0px; width: 72px; height: 72px; vertical-align: middle;
+}
+.title {
+	margin: 20px 0px 0px; font-size: 64px;
+}
+.tagline {
+	margin: 20px 0px 0px; color: rgb(68, 68, 68); font-size: 20px;
+}
+.btn-download {
+	margin: 150px 0px 0px; padding: 10px 20px; border-radius: 10px; border: 1px solid rgb(2, 78, 106); border-image: none; text-align: center; color: rgb(255, 255, 255); line-height: 38px; font-family: inherit; font-size: 32px; font-style: inherit; font-variant: inherit; font-weight: inherit; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; font-size-adjust: inherit; font-stretch: inherit; box-shadow: 0px 2px 5px -2px #111; text-shadow: 0px 1px 1px rgba(0,0,0,0.25); background-image: linear-gradient(rgb(4, 162, 221), rgb(3, 115, 156)); background-repeat: repeat-x; background-color: rgb(0, 151, 207); -webkit-border-radius: 10px; -moz-border-radius: 10px; -webkit-box-shadow: 0 2px 5px -2px #111; -moz-box-shadow: 0 2px 5px -2px #111;
+}
+.btn-download:hover {
+	background-image: none; background-color: rgb(4, 162, 221);
+}
+.btn-download:active {
+	background-image: none; background-color: rgb(3, 115, 156);
+}
+.btn:hover {
+	text-decoration: none;
+}
+.btn:focus {
+	text-decoration: none;
+}
+.btn:active {
+	text-decoration: none;
+}
+.social {
+	margin: 80px 0px 0px;
+}
+.social-btn {
+	padding: 5px 8px;
+}
+.links {
+	list-style: none; margin: 10px 0px 0px; padding: 0px; display: block;
+}
+.links a {
+	color: rgb(153, 153, 153); font-size: 16px;
+}
+.footer {
+	font-size: 12px;
+}
+.Typeahead * {
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.Typeahead *::before {
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.Typeahead *::after {
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.u-cf::before {
+	display: table; content: " ";
+}
+.u-cf::after {
+	display: table; content: " ";
+}
+.u-cf::after {
+	clear: both;
+}
+.u-hidden {
+	display: none !important;
+}
+.u-posRelative {
+	position: relative;
+}
+.Typeahead {
+	margin: 50px auto 0px; padding: 15px; border-radius: 10px; border: 1px solid rgb(2, 78, 106); border-image: none; width: 500px; text-align: left; position: relative; box-shadow: 0px 0px 2px #111; background-repeat: repeat-x; background-color: rgb(0, 151, 207); -webkit-border-radius: 10px; -moz-border-radius: 10px; -webkit-box-shadow: 0 0 2px #111; -moz-box-shadow: 0 0 2px #111;
+}
+.Typeahead-spinner {
+	top: 7px; width: 28px; height: 28px; right: 7px; display: none; position: absolute;
+}
+.Typeahead-hint {
+	padding: 5px 8px; border-radius: 8px; border: 1px solid rgb(2, 78, 106); border-image: none; width: 100%; line-height: 30px; font-size: 24px; -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.Typeahead-input {
+	padding: 5px 8px; border-radius: 8px; border: 1px solid rgb(2, 78, 106); border-image: none; width: 100%; line-height: 30px; font-size: 24px; -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.Typeahead-hint {
+	left: 0px; top: 0px; color: rgb(204, 214, 221); position: absolute; opacity: 1;
+}
+.Typeahead-input {
+	position: relative; background-image: url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"); background-color: transparent;
+}
+.Typeahead-menu {
+	border-radius: 8px; left: 2.5%; top: 95%; width: 95%; overflow: hidden; margin-bottom: 20px; display: none; position: absolute; z-index: 100; box-shadow: 0px 5px 10px rgba(0,0,0,0.2); background-color: rgb(255, 255, 255); -webkit-border-radius: 8px; -moz-border-radius: 8px; -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2); -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+.Typeahead-menu.is-open {
+	display: block;
+}
+.Typeahead-selectable {
+	cursor: pointer;
+}
+.Typeahead-selectable + .Typeahead-selectable {
+	border-top-color: rgb(204, 214, 221); border-top-width: 1px; border-top-style: solid;
+}
+.ProfileCard {
+	padding: 8px; position: relative;
+}
+.ProfileCard-avatar {
+	border-radius: 5px; border: 2px solid rgb(204, 214, 221); border-image: none; left: 8px; top: 8px; width: 52px; height: 52px; position: absolute;
+}
+.ProfileCard:hover .ProfileCard-avatar {
+	border-color: rgb(245, 248, 250);
+}
+.ProfileCard-details {
+	padding-left: 60px; min-height: 60px;
+}
+.ProfileCard-realName {
+	display: inline-block;
+}
+.ProfileCard-screenName {
+	display: inline-block;
+}
+.ProfileCard-realName {
+	font-weight: 700;
+}
+.ProfileCard-screenName {
+	color: rgb(136, 153, 166);
+}
+.ProfileCard-description {
+	line-height: 18px; font-size: 14px; margin-top: 5px;
+}
+.ProfileCard-stats {
+	text-align: right; float: right;
+}
+.ProfileCard-stat {
+	text-transform: uppercase; line-height: 16px; font-size: 12px; display: inline-block;
+}
+.ProfileCard-stat-label {
+	color: rgb(136, 153, 166); font-weight: 500;
+}
+.ProfileCard-stat + .ProfileCard-stat {
+	margin-left: 5px;
+}
+.ProfileCard:hover {
+	background: rgb(85, 172, 238); color: rgb(255, 255, 255);
+}
+.ProfileCard.is-active {
+	background: rgb(85, 172, 238); color: rgb(255, 255, 255);
+}
+.ProfileCard:hover .ProfileCard-screenName {
+	color: rgb(255, 255, 255);
+}
+.ProfileCard:hover .ProfileCard-stat-label {
+	color: rgb(255, 255, 255);
+}
+.ProfileCard.is-active .ProfileCard-screenName {
+	color: rgb(255, 255, 255);
+}
+.ProfileCard.is-active .ProfileCard-stat-label {
+	color: rgb(255, 255, 255);
+}
+.EmptyMessage {
+	padding: 10px; text-align: center; line-height: 30px; font-size: 24px; position: relative;
+}
